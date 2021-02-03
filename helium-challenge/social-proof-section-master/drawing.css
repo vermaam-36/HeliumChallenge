@@ -1,0 +1,49 @@
+body{
+    font-family: Spartan;
+}
+.purpletext{
+    -webkit-text-fill-color: #502050;
+    font-size: xxx-large;
+    alignment: center;
+}
+.rater{
+    padding-left: 40px;
+    padding-right: 160px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: #f7f2f7;
+    border: 20px #f7f2f7;
+}
+#rating1{
+    margin-left: 15%;
+
+}
+#rating2{
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+#rating3{
+    padding-top: 20px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.insideRating{
+    margin-left: 2%;
+    -webkit-text-fill-color: #502050;
+}
+#top{
+    padding-top: 10%;
+    padding-left: 20%;
+}
+#bottom{
+    background-image: url("images/bg-pattern-bottom-desktop.svg");
+    padding-left: 20%;
+}
+.review{
+    margin-top: 0%;
+    padding: 20px;
+    background-color: #793e77;
+    width: 20%;
+    -webkit-text-fill-color: #FADADD;
+}
